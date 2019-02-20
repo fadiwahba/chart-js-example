@@ -1,0 +1,22 @@
+{
+  "name": "chart-js-example",
+  "version": "1.0.0",
+  "description": "Create charts using chart.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadiwahba/chart-js-example.git"
+  },
+  "keywords": [
+    "chart.js"
+  ],
+  "author": "http://fadysoliman.name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fadiwahba/chart-js-example/issues"
+  },
+  "homepage": "https://github.com/fadiwahba/chart-js-example#readme"
+}
